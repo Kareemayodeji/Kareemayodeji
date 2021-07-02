@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kareemayodeji
-- 👀 I’m interested in Software Development & Product Management
+- 👀 I’m interested in Software Development & Web Design
 - 🌱 I’m currently learning everything JavaScript :)
 - 💞️ I’m looking to collaborate on any awesome project.
 - 📫 How to reach me via kareem.ayodeji47@gmail.com
